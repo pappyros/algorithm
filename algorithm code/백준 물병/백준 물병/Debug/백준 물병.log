@@ -1,5 +1,0 @@
-﻿  소스.cpp
-c:\users\hans\documents\visual studio 2015\projects\백준 물병\백준 물병\소스.cpp(31): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
-c:\users\hans\documents\visual studio 2015\projects\백준 물병\백준 물병\소스.cpp(28): warning C4715: 'bin': 모든 제어 경로에서 값을 반환하지는 않습니다.
-  백준 물병.vcxproj -> c:\users\hans\documents\visual studio 2015\Projects\백준 물병\Debug\백준 물병.exe
-  백준 물병.vcxproj -> c:\users\hans\documents\visual studio 2015\Projects\백준 물병\Debug\백준 물병.pdb (Partial PDB)

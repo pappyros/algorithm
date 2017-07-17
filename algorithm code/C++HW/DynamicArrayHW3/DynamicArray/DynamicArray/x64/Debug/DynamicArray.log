@@ -1,3 +1,0 @@
-﻿  DynamicArray.cpp
-c:\users\hans\documents\visual studio 2015\projects\c++hw\dynamicarrayhw3\dynamicarray\dynamicarray\dynamicarray.cpp(54): warning C4172: 지역 변수 또는 임시: q의 주소를 반환하고 있습니다.
-  DynamicArray.vcxproj -> C:\Users\Hans\Documents\Visual Studio 2015\Projects\C++HW\DynamicArrayHW3\DynamicArray\x64\Debug\DynamicArray.exe

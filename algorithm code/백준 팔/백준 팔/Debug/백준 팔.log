@@ -1,4 +1,0 @@
-﻿  소스.cpp
-c:\users\hans\documents\visual studio 2015\projects\백준 팔\백준 팔\소스.cpp(27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  백준 팔.vcxproj -> c:\users\hans\documents\visual studio 2015\Projects\백준 팔\Debug\백준 팔.exe
-  백준 팔.vcxproj -> c:\users\hans\documents\visual studio 2015\Projects\백준 팔\Debug\백준 팔.pdb (Partial PDB)

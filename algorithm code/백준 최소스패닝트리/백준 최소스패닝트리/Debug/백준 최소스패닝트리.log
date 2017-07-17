@@ -1,4 +1,0 @@
-﻿  소스.cpp
-c:\users\hans\documents\visual studio 2015\projects\백준 최소스패닝트리\백준 최소스패닝트리\소스.cpp(33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  백준 최소스패닝트리.vcxproj -> c:\users\hans\documents\visual studio 2015\Projects\백준 최소스패닝트리\Debug\백준 최소스패닝트리.exe
-  백준 최소스패닝트리.vcxproj -> c:\users\hans\documents\visual studio 2015\Projects\백준 최소스패닝트리\Debug\백준 최소스패닝트리.pdb (Partial PDB)

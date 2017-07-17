@@ -1,4 +1,0 @@
-﻿  소스.cpp
-c:\users\hans\documents\visual studio 2015\projects\yesi\yesi\소스.cpp(44): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-  yesi.vcxproj -> C:\Users\Hans\Documents\Visual Studio 2015\Projects\yesi\Debug\yesi.exe
-  yesi.vcxproj -> C:\Users\Hans\Documents\Visual Studio 2015\Projects\yesi\Debug\yesi.pdb (Partial PDB)

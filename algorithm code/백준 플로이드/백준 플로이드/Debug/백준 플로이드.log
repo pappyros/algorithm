@@ -1,5 +1,0 @@
-﻿  소스.cpp
-c:\users\hans\documents\visual studio 2015\projects\백준 플로이드\백준 플로이드\소스.cpp(69): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\hans\documents\visual studio 2015\projects\백준 플로이드\백준 플로이드\소스.cpp(85): warning C4101: 'weight' :참조되지 않은 지역 변수입니다.
-  백준 플로이드.vcxproj -> C:\Users\Hans\Documents\Visual Studio 2015\Projects\백준 플로이드\Debug\백준 플로이드.exe
-  백준 플로이드.vcxproj -> C:\Users\Hans\Documents\Visual Studio 2015\Projects\백준 플로이드\Debug\백준 플로이드.pdb (Partial PDB)

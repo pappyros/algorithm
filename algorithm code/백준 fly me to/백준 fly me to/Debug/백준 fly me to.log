@@ -1,5 +1,0 @@
-﻿  소스.cpp
-c:\users\hans\documents\visual studio 2015\projects\백준 fly me to\백준 fly me to\소스.cpp(62): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-c:\users\hans\documents\visual studio 2015\projects\백준 fly me to\백준 fly me to\소스.cpp(66): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  백준 fly me to.vcxproj -> C:\Users\Hans\Documents\Visual Studio 2015\Projects\백준 fly me to\Debug\백준 fly me to.exe
-  백준 fly me to.vcxproj -> C:\Users\Hans\Documents\Visual Studio 2015\Projects\백준 fly me to\Debug\백준 fly me to.pdb (Partial PDB)
