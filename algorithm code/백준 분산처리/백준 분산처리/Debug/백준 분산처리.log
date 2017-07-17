@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\hans\documents\visual studio 2015\projects\백준 분산처리\백준 분산처리\소스.cpp(12): warning C4101: 'result' :참조되지 않은 지역 변수입니다.
+  백준 분산처리.vcxproj -> C:\Users\Hans\Documents\Visual Studio 2015\Projects\백준 분산처리\Debug\백준 분산처리.exe
+  백준 분산처리.vcxproj -> C:\Users\Hans\Documents\Visual Studio 2015\Projects\백준 분산처리\Debug\백준 분산처리.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\hans\documents\visual studio 2015\projects\백준 다리놓기\백준 다리놓기\소스.cpp(18): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  백준 다리놓기.vcxproj -> c:\users\hans\documents\visual studio 2015\Projects\백준 다리놓기\Debug\백준 다리놓기.exe
+  백준 다리놓기.vcxproj -> c:\users\hans\documents\visual studio 2015\Projects\백준 다리놓기\Debug\백준 다리놓기.pdb (Partial PDB)

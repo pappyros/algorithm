@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\hans\documents\visual studio 2015\projects\백준 진짜메시지\백준 진짜메시지\소스.cpp(35): warning C4715: 'func': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  백준 진짜메시지.vcxproj -> c:\users\hans\documents\visual studio 2015\Projects\백준 진짜메시지\Debug\백준 진짜메시지.exe
+  백준 진짜메시지.vcxproj -> c:\users\hans\documents\visual studio 2015\Projects\백준 진짜메시지\Debug\백준 진짜메시지.pdb (Partial PDB)

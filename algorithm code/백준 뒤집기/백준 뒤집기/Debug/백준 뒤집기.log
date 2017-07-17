@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\hans\documents\visual studio 2015\projects\백준 뒤집기\백준 뒤집기\소스.cpp(44): warning C4715: 'func': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  백준 뒤집기.vcxproj -> c:\users\hans\documents\visual studio 2015\Projects\백준 뒤집기\Debug\백준 뒤집기.exe
+  백준 뒤집기.vcxproj -> c:\users\hans\documents\visual studio 2015\Projects\백준 뒤집기\Debug\백준 뒤집기.pdb (Partial PDB)

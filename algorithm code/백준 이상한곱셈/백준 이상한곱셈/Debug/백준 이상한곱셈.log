@@ -1,0 +1,5 @@
+﻿  소스.cpp
+c:\users\hans\documents\visual studio 2015\projects\백준 이상한곱셈\백준 이상한곱셈\소스.cpp(13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\hans\documents\visual studio 2015\projects\백준 이상한곱셈\백준 이상한곱셈\소스.cpp(16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  백준 이상한곱셈.vcxproj -> c:\users\hans\documents\visual studio 2015\Projects\백준 이상한곱셈\Debug\백준 이상한곱셈.exe
+  백준 이상한곱셈.vcxproj -> c:\users\hans\documents\visual studio 2015\Projects\백준 이상한곱셈\Debug\백준 이상한곱셈.pdb (Partial PDB)

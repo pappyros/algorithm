@@ -1,0 +1,7 @@
+﻿  소스.cpp
+c:\users\hans\documents\visual studio 2015\projects\백준 음악프로그램\백준 음악프로그램\소스.cpp(18): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\hans\documents\visual studio 2015\projects\백준 음악프로그램\백준 음악프로그램\소스.cpp(53): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\hans\documents\visual studio 2015\projects\백준 음악프로그램\백준 음악프로그램\소스.cpp(72): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\hans\documents\visual studio 2015\projects\백준 음악프로그램\백준 음악프로그램\소스.cpp(76): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  백준 음악프로그램.vcxproj -> c:\users\hans\documents\visual studio 2015\Projects\백준 음악프로그램\Debug\백준 음악프로그램.exe
+  백준 음악프로그램.vcxproj -> c:\users\hans\documents\visual studio 2015\Projects\백준 음악프로그램\Debug\백준 음악프로그램.pdb (Partial PDB)

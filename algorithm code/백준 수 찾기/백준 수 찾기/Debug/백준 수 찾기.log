@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\hans\documents\visual studio 2015\projects\백준 수 찾기\백준 수 찾기\소스.cpp(21): warning C4715: 'binarysearch': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  백준 수 찾기.vcxproj -> C:\Users\Hans\Documents\Visual Studio 2015\Projects\백준 수 찾기\Debug\백준 수 찾기.exe
+  백준 수 찾기.vcxproj -> C:\Users\Hans\Documents\Visual Studio 2015\Projects\백준 수 찾기\Debug\백준 수 찾기.pdb (Partial PDB)

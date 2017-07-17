@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\hans\documents\visual studio 2015\projects\백준 스타트링크\백준 스타트링크\소스.cpp(31): warning C4552: '-': 의미 없는 연산자입니다. 파생 작업이 있는 연산자여야 합니다.
+  백준 스타트링크.vcxproj -> c:\users\hans\documents\visual studio 2015\Projects\백준 스타트링크\Debug\백준 스타트링크.exe
+  백준 스타트링크.vcxproj -> c:\users\hans\documents\visual studio 2015\Projects\백준 스타트링크\Debug\백준 스타트링크.pdb (Partial PDB)

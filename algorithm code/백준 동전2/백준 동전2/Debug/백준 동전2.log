@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\hans\documents\visual studio 2015\projects\백준 동전2\백준 동전2\소스.cpp(122): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  백준 동전2.vcxproj -> C:\Users\Hans\Documents\Visual Studio 2015\Projects\백준 동전2\Debug\백준 동전2.exe
+  백준 동전2.vcxproj -> C:\Users\Hans\Documents\Visual Studio 2015\Projects\백준 동전2\Debug\백준 동전2.pdb (Partial PDB)

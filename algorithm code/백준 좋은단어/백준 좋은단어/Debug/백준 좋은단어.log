@@ -1,0 +1,5 @@
+﻿  소스.cpp
+c:\users\hans\documents\visual studio 2015\projects\백준 좋은단어\백준 좋은단어\소스.cpp(29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\hans\documents\visual studio 2015\projects\백준 좋은단어\백준 좋은단어\소스.cpp(33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  백준 좋은단어.vcxproj -> C:\Users\Hans\Documents\Visual Studio 2015\Projects\백준 좋은단어\Debug\백준 좋은단어.exe
+  백준 좋은단어.vcxproj -> C:\Users\Hans\Documents\Visual Studio 2015\Projects\백준 좋은단어\Debug\백준 좋은단어.pdb (Partial PDB)

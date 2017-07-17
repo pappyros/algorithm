@@ -1,0 +1,5 @@
+﻿  소스.cpp
+c:\users\hans\documents\visual studio 2015\projects\백준 암호코드\백준 암호코드\소스.cpp(16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\hans\documents\visual studio 2015\projects\백준 암호코드\백준 암호코드\소스.cpp(32): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  백준 암호코드.vcxproj -> c:\users\hans\documents\visual studio 2015\Projects\백준 암호코드\Debug\백준 암호코드.exe
+  백준 암호코드.vcxproj -> c:\users\hans\documents\visual studio 2015\Projects\백준 암호코드\Debug\백준 암호코드.pdb (Partial PDB)

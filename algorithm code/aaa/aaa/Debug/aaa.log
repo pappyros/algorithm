@@ -1,0 +1,4 @@
+﻿  aaa.cpp
+c:\users\hans\documents\visual studio 2015\projects\aaa\aaa\aaa.cpp(112): warning C4551: 함수 호출에 인수 목록이 없습니다.
+  aaa.vcxproj -> C:\Users\Hans\Documents\Visual Studio 2015\Projects\aaa\Debug\aaa.exe
+  aaa.vcxproj -> C:\Users\Hans\Documents\Visual Studio 2015\Projects\aaa\Debug\aaa.pdb (Partial PDB)

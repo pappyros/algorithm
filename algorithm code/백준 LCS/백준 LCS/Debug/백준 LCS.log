@@ -1,0 +1,6 @@
+﻿  소스.cpp
+c:\users\hans\documents\visual studio 2015\projects\백준 lcs\백준 lcs\소스.cpp(10): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\hans\documents\visual studio 2015\projects\백준 lcs\백준 lcs\소스.cpp(12): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\hans\documents\visual studio 2015\projects\백준 lcs\백준 lcs\소스.cpp(14): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  백준 LCS.vcxproj -> C:\Users\Hans\Documents\Visual Studio 2015\Projects\백준 LCS\Debug\백준 LCS.exe
+  백준 LCS.vcxproj -> C:\Users\Hans\Documents\Visual Studio 2015\Projects\백준 LCS\Debug\백준 LCS.pdb (Partial PDB)

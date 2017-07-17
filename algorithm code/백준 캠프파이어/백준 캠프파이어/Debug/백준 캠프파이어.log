@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\hans\documents\visual studio 2015\projects\백준 캠프파이어\백준 캠프파이어\소스.cpp(24): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  백준 캠프파이어.vcxproj -> c:\users\hans\documents\visual studio 2015\Projects\백준 캠프파이어\Debug\백준 캠프파이어.exe
+  백준 캠프파이어.vcxproj -> c:\users\hans\documents\visual studio 2015\Projects\백준 캠프파이어\Debug\백준 캠프파이어.pdb (Partial PDB)
